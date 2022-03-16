@@ -3,4 +3,17 @@
     <string name="tEmail">Email</string>
     <string name="tPassword">Password</string>
     <string name="bsignin">Sign-In</string>
+    <string name="tData">Data Anda</string>
+    <string name="tEmail2">Email:</string>
+    <string name="tPassword2">Password:</string>
+    <string name="txemail">Ini hasil Email</string>
+    <string name="txpassword">Ini hasil Password</string>
+    <string name="label2">Login Berhasil</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Masukan Nama</string>
+    <string name="eemail">Masukan Email</string>
+    <string name="epass">Masukan Password</string>
+    <string name="erepass">Masukan Password Kembali</string>
+    <string name="ealamat">Masukan Alamat</string>
 </resources>
