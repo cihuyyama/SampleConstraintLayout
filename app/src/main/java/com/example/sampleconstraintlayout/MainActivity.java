@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 nama = edemail.getText().toString();
                 password = edpassword.getText().toString();
 
-                if (nama.equals("iqbal") && password.equals("iqbal123")){
+                if (nama.equals("Pascal") && password.equals("iniPascal")){
                     Toast t = Toast.makeText(getApplicationContext(),
                             "Sukses",Toast.LENGTH_LONG);
                     t.show();
@@ -61,12 +61,12 @@ public class MainActivity extends AppCompatActivity {
                     i.putExtras(b);
                     startActivity(i);
                 }
-                else if (password.equals("iqbal123")){
+                else if (password.equals("iniPascal")){
                     Toast t = Toast.makeText(getApplicationContext(),
                             "Email anda Salah",Toast.LENGTH_LONG);
                     t.show();
                 }
-                else if (nama.equals("iqbal")){
+                else if (nama.equals("Pascal")){
                     Toast t = Toast.makeText(getApplicationContext(),
                             "Password anda Salah",Toast.LENGTH_LONG);
                     t.show();
